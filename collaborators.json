@@ -1,0 +1,204 @@
+{
+	"developers": [
+		{
+			"membershipId": "4611686018441021725",
+			"membershipType": 2,
+			"name":"jaoryuken"
+		}
+	],
+	"designers": [
+		{
+			"membershipId": "4611686018429190727",
+			"membershipType": 2,
+			"name":"wildethang"
+		}
+	],
+	"translators": [
+		{
+			"languages": [
+				"de"
+			],
+			"translators": [
+				{
+					"membershipId": "4611686018463551188",
+					"membershipType": 2,
+					"name":"fonian"
+				}
+			]
+		},
+		{
+			"languages": [
+				"es",
+				"es-mx"
+			],
+			"translators": [
+				{
+					"membershipId": "4611686018429051657",
+					"membershipType": 2,
+          "name":"rassiel"
+				},
+				{
+					"membershipId": "4611686018450956952",
+					"membershipType": 2,
+          "name":"alexfa55"
+				}
+			]
+		},
+		{
+			"languages": [
+				"fr"
+			],
+			"translators": [
+				{
+					"membershipId": "4611686018436875822",
+					"membershipType": 2,
+          "name":"ZeWorst",
+					"link": "https://play.google.com/store/apps/details?id=com.eldwyn.wotabyss"
+				}
+			]
+		},
+		{
+			"languages": [
+				"it"
+			],
+			"translators": [
+				{
+					"membershipId": "4611686018468567020",
+					"membershipType": 3,
+          "name":"eysenor"
+				},
+				{
+					"membershipId": "4611686018467289582",
+					"membershipType": 3,
+          "name":"qub3x"
+				},
+				{
+					"membershipId": "4611686018468562417",
+					"membershipType": 3,
+          "name":"viridis draco"
+				}
+			]
+		},
+		{
+			"languages": [
+				"ja"
+			],
+			"translators": [
+				{
+					"membershipId": "4611686018467519241",
+					"membershipType": 3,
+          "name":"rice otaku"
+				}
+			]
+		},
+		{
+			"languages": [
+				"ko"
+			],
+			"translators": [
+				{
+					"membershipId": "4611686018488602145",
+					"membershipType": 3,
+          "name":"naru"
+				}
+			]
+		},
+		{
+			"languages": [
+				"pt-br"
+			],
+			"translators": [
+				{
+					"membershipId": "4611686018441021725",
+					"membershipType": 2,
+          "name":"jaoryuken"
+				}
+			]
+		},
+		{
+			"languages": [
+				"pl"
+			],
+			"translators": [
+				{
+					"membershipId": "4611686018451719977",
+					"membershipType": 2,
+          "name":"nicolas"
+				}
+			]
+		},
+		{
+			"languages": [
+				"ru"
+			],
+			"translators": [
+				{
+					"membershipId": "4611686018486012725",
+					"membershipType": 3,
+          "name":"antoniuss"
+				}
+			]
+		},
+		{
+			"languages": [
+				"zh-chs"
+			],
+			"translators": [
+				{
+					"membershipId": "4611686018489331546",
+					"membershipType": 3,
+          "name":"kj415"
+				}
+			]
+		},
+		{
+			"languages": [
+				"zh-cht"
+			],
+			"translators": [
+				{
+					"membershipId": "4611686018484604303",
+					"membershipType": 3,
+          "name":"coralfox"
+				}
+			]
+		}
+	],
+	"supporters": [
+		{
+			"membershipId": "4611686018429238118",
+			"membershipType": 2,
+      "name":"nvidiajunkie"
+		},
+		{
+			"membershipId": "4611686018452346120",
+			"membershipType": 2,
+      "name":"smartypaws"
+		},
+		{
+			"membershipId": "4611686018430226498",
+			"membershipType": 1,
+      "name":"daddywolf"
+		},
+		{
+			"membershipId": "4611686018434959588",
+			"membershipType": 1,
+      "name":"ltbarricade"
+		},
+		{
+			"membershipId": "4611686018482820655",
+			"membershipType": 3,
+      "name":"onyxialis"
+		},
+		{
+			"membershipId": "4611686018436933892",
+			"membershipType": 1,
+      "name":"ellimist"
+		},
+		{
+			"membershipId": "4611686018433235027",
+			"membershipType": 1,
+      "name":"everclear juice"
+		}
+	]
+}
