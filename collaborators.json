@@ -3,14 +3,14 @@
 		{
 			"membershipId": "4611686018441021725",
 			"membershipType": 2,
-			"name":"jaoryuken"
+			"name": "jaoryuken"
 		}
 	],
 	"designers": [
 		{
 			"membershipId": "4611686018429190727",
 			"membershipType": 2,
-			"name":"wildethang"
+			"name": "wildethang"
 		}
 	],
 	"translators": [
@@ -22,7 +22,7 @@
 				{
 					"membershipId": "4611686018463551188",
 					"membershipType": 2,
-					"name":"fonian"
+					"name": "fonian"
 				}
 			]
 		},
@@ -35,12 +35,12 @@
 				{
 					"membershipId": "4611686018429051657",
 					"membershipType": 2,
-          "name":"rassiel"
+					"name": "rassiel"
 				},
 				{
 					"membershipId": "4611686018450956952",
 					"membershipType": 2,
-          "name":"alexfa55"
+					"name": "alexfa55"
 				}
 			]
 		},
@@ -52,7 +52,7 @@
 				{
 					"membershipId": "4611686018436875822",
 					"membershipType": 2,
-          "name":"ZeWorst",
+					"name": "ZeWorst",
 					"link": "https://play.google.com/store/apps/details?id=com.eldwyn.wotabyss"
 				}
 			]
@@ -65,17 +65,17 @@
 				{
 					"membershipId": "4611686018468567020",
 					"membershipType": 3,
-          "name":"eysenor"
+					"name": "eysenor"
 				},
 				{
 					"membershipId": "4611686018467289582",
 					"membershipType": 3,
-          "name":"qub3x"
+					"name": "qub3x"
 				},
 				{
 					"membershipId": "4611686018468562417",
 					"membershipType": 3,
-          "name":"viridis draco"
+					"name": "viridis draco"
 				}
 			]
 		},
@@ -87,7 +87,7 @@
 				{
 					"membershipId": "4611686018467519241",
 					"membershipType": 3,
-          "name":"rice otaku"
+					"name": "rice otaku"
 				}
 			]
 		},
@@ -99,7 +99,7 @@
 				{
 					"membershipId": "4611686018488602145",
 					"membershipType": 3,
-          "name":"naru"
+					"name": "naru"
 				}
 			]
 		},
@@ -111,7 +111,7 @@
 				{
 					"membershipId": "4611686018441021725",
 					"membershipType": 2,
-          "name":"jaoryuken"
+					"name": "jaoryuken"
 				}
 			]
 		},
@@ -123,7 +123,7 @@
 				{
 					"membershipId": "4611686018451719977",
 					"membershipType": 2,
-          "name":"nicolas"
+					"name": "nicolas"
 				}
 			]
 		},
@@ -135,7 +135,7 @@
 				{
 					"membershipId": "4611686018486012725",
 					"membershipType": 3,
-          "name":"antoniuss"
+					"name": "antoniuss"
 				}
 			]
 		},
@@ -147,7 +147,7 @@
 				{
 					"membershipId": "4611686018489331546",
 					"membershipType": 3,
-          "name":"kj415"
+					"name": "kj415"
 				}
 			]
 		},
@@ -159,7 +159,7 @@
 				{
 					"membershipId": "4611686018484604303",
 					"membershipType": 3,
-          "name":"coralfox"
+					"name": "coralfox"
 				}
 			]
 		}
@@ -168,37 +168,37 @@
 		{
 			"membershipId": "4611686018429238118",
 			"membershipType": 2,
-      "name":"nvidiajunkie"
+			"name": "nvidiajunkie"
 		},
 		{
 			"membershipId": "4611686018452346120",
 			"membershipType": 2,
-      "name":"smartypaws"
+			"name": "smartypaws"
 		},
 		{
 			"membershipId": "4611686018430226498",
 			"membershipType": 1,
-      "name":"daddywolf"
+			"name": "daddywolf"
 		},
 		{
 			"membershipId": "4611686018434959588",
 			"membershipType": 1,
-      "name":"ltbarricade"
+			"name": "ltbarricade"
 		},
 		{
 			"membershipId": "4611686018482820655",
 			"membershipType": 3,
-      "name":"onyxialis"
+			"name": "onyxialis"
 		},
 		{
 			"membershipId": "4611686018436933892",
 			"membershipType": 1,
-      "name":"ellimist"
+			"name": "ellimist"
 		},
 		{
 			"membershipId": "4611686018433235027",
 			"membershipType": 1,
-      "name":"everclear juice"
+			"name": "everclear juice"
 		}
 	]
 }
