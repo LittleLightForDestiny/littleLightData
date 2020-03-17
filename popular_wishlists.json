@@ -6,6 +6,18 @@
         "description": "Little Light Default wishlist, basically a compiled of pandapaxxy weapon's breakdown"
     },
     {
+        "url": "https://raw.githubusercontent.com/LittleLightForDestiny/littlelight_wishlists/master/pandapaxxy-controller-bundle.json",
+        "name": "PandaPaxxy's controller recommendations",
+        "type": "DimWishlist",
+        "description": "u/pandapaxxy picks for playing on controller"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LittleLightForDestiny/littlelight_wishlists/master/pandapaxxy-mkb-bundle.json",
+        "name": "PandaPaxxy's MnK recommendations",
+        "type": "DimWishlist",
+        "description": "u/pandapaxxy picks for playing on mouse and keyboard"
+    },
+    {
         "url": "https://raw.githubusercontent.com/LittleLightForDestiny/dim-wish-list-sources/master/voltron.txt",
         "name": "DIM's/48klocs voltron.txt",
         "type": "DimWishlist",
