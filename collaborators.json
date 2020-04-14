@@ -200,10 +200,15 @@
 			"membershipType": 1,
 			"name": "everclear juice"
 		},
-        {
+        	{
 			"membershipId": "4611686018491768697",
 			"membershipType": 3,
 			"name": "Cthala, Guardian of R'lyeh"
+		},
+		{
+			"membershipId": "4611686018467548702",
+			"membershipType": 1,
+			"name": "DIOMEDES XXII"
 		}
 	]
 }
