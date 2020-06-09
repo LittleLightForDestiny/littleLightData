@@ -1,13 +1,14 @@
 {
-  "softCap":950,
-  "powerfulCap":1000,
-  "pinnacleCap":1010,
+  "softCap":1000,
+  "powerfulCap":1050,
+  "pinnacleCap":1060,
   "seasonalModSlots":[
     3625698764,
     720857,
     4106547009,
     2620967748,
     2357307006,
-    2655746324
+    2655746324,
+    4153634494
   ]
 }
