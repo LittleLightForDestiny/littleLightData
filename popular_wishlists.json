@@ -18,9 +18,9 @@
         "description": "u/pandapaxxy picks for playing on mouse and keyboard"
     },
     {
-        "url": "https://raw.githubusercontent.com/LittleLightForDestiny/dim-wish-list-sources/master/voltron.txt",
-        "name": "DIM's/48klocs voltron.txt",
+        "url": "https://raw.githubusercontent.com/LittleLightForDestiny/littlelight_wishlists/master/chevys_splicer_pve.json",
+        "name": "Chevy's S14 Super Pog PvE Loot List",
         "type": "DimWishlist",
-        "description": "This is a compiled collection of god/recommended rolls from top community minds.\nContributions from: u/Mercules904, u/pandapaxxy, u/HavocsCall, and @chrisfried. \nCompiled into one list by u/48klocs / @48klocs"
+        "description": "Wishlist based on @AyyItsChevy picks for PvE on Season of Splicer"
     }
 ]
