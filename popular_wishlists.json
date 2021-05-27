@@ -22,5 +22,23 @@
         "name": "Chevy's S14 Super Pog PvE Loot List",
         "type": "DimWishlist",
         "description": "Wishlist based on @AyyItsChevy picks for PvE on Season of Splicer"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LittleLightForDestiny/littlelight_wishlists/master/kj415j45-s14-mnk-bundle.json",
+        "name": "kj415j45's S14 picks for Mouse and Keyboard",
+        "type": "DimWishlist",
+        "description": "@kj415j45's perk recommendations and combos for PvE and PVP on Season of Splicer weapons"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LittleLightForDestiny/littlelight_wishlists/master/big-bird-non-sunset-rolls-mnk.json",
+        "name": "Big Bird's all non-sunset roll choices",
+        "type": "DimWishlist",
+        "description": "This list includes rolls from all weapons that haven't been sunset from all seasons. Biased towards Mouse and Keyboard."
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LittleLightForDestiny/littlelight_wishlists/master/lukorama-vog-picks-mkb.json",
+        "name": "Lukorama's VOG weapons perk recommendations",
+        "type": "DimWishlist",
+        "description": "A list of recommendations for the weapons from Void of Glass. Recommended for MnK."
     }
 ]
