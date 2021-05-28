@@ -40,5 +40,11 @@
         "name": "Lukorama's VOG weapons perk recommendations",
         "type": "DimWishlist",
         "description": "A list of recommendations for the weapons from Vault of Glass. Recommended for MnK."
+    },
+    {
+        "url": "https://raw.githubusercontent.com/LittleLightForDestiny/littlelight_wishlists/master/adhere-clan-S14-controller-PvE.json",
+        "name": "Adhere Clan's Season 14 Controller Wishlist",
+        "type": "DimWishlist",
+        "description": "Recommendations for PVE on Controller from the Adhere clan."
     }
 ]
