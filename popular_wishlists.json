@@ -36,6 +36,12 @@
         "description": "This list includes rolls from all weapons that haven't been sunset from all seasons. Biased towards Mouse and Keyboard."
     },
     {
+        "url": "https://raw.githubusercontent.com/LittleLightForDestiny/littlelight_wishlists/master/big-bird-mnk-14.json",
+        "name": "Big Bird's Season 14 roll choices",
+        "type": "DimWishlist",
+        "description": "This list includes rolls from Season 14. Biased towards Mouse and Keyboard."
+    },
+    {
         "url": "https://raw.githubusercontent.com/LittleLightForDestiny/littlelight_wishlists/master/lukorama-vog-picks-mkb.json",
         "name": "Lukorama's VOG weapons perk recommendations",
         "type": "DimWishlist",
