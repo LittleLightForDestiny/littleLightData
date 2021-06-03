@@ -1,54 +1,54 @@
 [
     {
-        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/master/littlelight_default.json",
+        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/littlelight_default.json",
         "name": "Little Light Default",
         "type": "DimWishlist",
         "description": "Little Light Default wishlist, basically a compiled of pandapaxxy weapon's breakdown"
     },
     {
-        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/master/pandapaxxy-controller-bundle.json",
+        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/pandapaxxy-controller-bundle.json",
         "name": "PandaPaxxy's controller recommendations",
         "type": "DimWishlist",
         "description": "u/pandapaxxy picks for playing on controller"
     },
     {
-        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/master/pandapaxxy-mkb-bundle.json",
+        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/pandapaxxy-mkb-bundle.json",
         "name": "PandaPaxxy's MnK recommendations",
         "type": "DimWishlist",
         "description": "u/pandapaxxy picks for playing on mouse and keyboard"
     },
     {
-        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/master/chevys_splicer_pve.json",
+        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/chevys_splicer_pve.json",
         "name": "Chevy's S14 Super Pog PvE Loot List",
         "type": "DimWishlist",
         "description": "Wishlist based on @AyyItsChevy picks for PvE on Season of Splicer"
     },
     {
-        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/master/kj415j45-s14-mnk-bundle.json",
+        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/kj415j45-s14-mnk-bundle.json",
         "name": "kj415j45's S14 picks for Mouse and Keyboard",
         "type": "DimWishlist",
         "description": "@kj415j45's perk recommendations and combos for PvE and PVP on Season of Splicer weapons"
     },
     {
-        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/master/big-bird-non-sunset-rolls-mnk.json",
+        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/big-bird-non-sunset-rolls-mnk.json",
         "name": "Big Bird's all non-sunset roll choices",
         "type": "DimWishlist",
         "description": "This list includes rolls from all weapons that haven't been sunset from all seasons. Biased towards Mouse and Keyboard."
     },
     {
-        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/master/big-bird-mnk-14.json",
+        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/big-bird-mnk-14.json",
         "name": "Big Bird's Season 14 roll choices",
         "type": "DimWishlist",
         "description": "This list includes rolls from Season 14. Biased towards Mouse and Keyboard."
     },
     {
-        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/master/lukorama-vog-picks-mkb.json",
+        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/lukorama-vog-picks-mkb.json",
         "name": "Lukorama's VOG weapons perk recommendations",
         "type": "DimWishlist",
         "description": "A list of recommendations for the weapons from Vault of Glass. Recommended for MnK."
     },
     {
-        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/master/adhere-s14-controller.json",
+        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/adhere-s14-controller.json",
         "name": "Adhere Clan's Season 14 Controller Wishlist",
         "type": "DimWishlist",
         "description": "Recommendations on Controller from the Adhere clan."
