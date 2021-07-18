@@ -77,6 +77,11 @@
 					"membershipType": 2,
 					"name": "ZeWorst",
 					"link": "https://play.google.com/store/apps/details?id=com.eldwyn.wotabyss"
+				},
+				{
+					"membershipId": "4611686018484834928",
+					"membershipType": 3,
+					"name": "PoyPoy17"
 				}
 			]
 		},
@@ -277,6 +282,11 @@
 			"membershipId":"4611686018465074518",
 			"membershipType":2,
 			"name":"Austin Maez (EldFen)"
+		},
+		{
+			"membershipId":"4611686018434774427",
+			"membershipType":2,
+			"name":"Ben (Mr5litre304)"
 		}
 	]
 }
