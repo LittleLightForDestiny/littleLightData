@@ -42,15 +42,15 @@
         "description": "This list includes rolls from Season 14. Biased towards Mouse and Keyboard."
     },
     {
-        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/lukorama-vog-picks-mkb.json",
-        "name": "Lukorama's VOG weapons perk recommendations",
-        "type": "DimWishlist",
-        "description": "A list of recommendations for the weapons from Vault of Glass. Recommended for MnK."
-    },
-    {
         "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/adhere-s14-controller.json",
         "name": "Adhere Clan's Season 14 Controller Wishlist",
         "type": "DimWishlist",
         "description": "Recommendations on Controller from the Adhere clan."
+    },
+    {
+        "url": "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists/sanctuary-bundle.json",
+        "name": "Just Another Team's Wishlist",
+        "type": "DimWishlist",
+        "description": "Roll recommendations from Azared, Alpharius and BeenLab."
     }
 ]

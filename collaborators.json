@@ -18,7 +18,7 @@
 			"membershipId": "4611686018471591122",
 			"membershipType": 2,
 			"name": "pandapaxxy",
-			"link":"https://www.reddit.com/u/pandapaxxy/posts/"
+			"link": "https://www.reddit.com/u/pandapaxxy/posts/"
 		},
 		{
 			"membershipId": "4611686018489331546",
@@ -31,9 +31,19 @@
 			"name": "@LiamJoy12"
 		},
 		{
-			"membershipId": "4611686018483404272",
+			"membershipId": "4611686018493151198",
 			"membershipType": 3,
-			"name": "Lukorama"
+			"name": "MyNameIsAlph"
+		},
+		{
+			"membershipId": "4611686018485183032",
+			"membershipType": 3,
+			"name": "beenlab"
+		},
+		{
+			"membershipId": "4611686018489118851",
+			"membershipType": 3,
+			"name": "Azared"
 		}
 	],
 	"translators": [
@@ -233,7 +243,7 @@
 			"membershipType": 1,
 			"name": "everclear juice"
 		},
-        	{
+		{
 			"membershipId": "4611686018491768697",
 			"membershipType": 3,
 			"name": "Cthala, Guardian of R'lyeh"
@@ -249,44 +259,44 @@
 			"name": "AWFULatTHIS"
 		},
 		{
-			"membershipId":"4611686018430167676",
-			"membershipType":1,
-			"name":"honeyBadja"
+			"membershipId": "4611686018430167676",
+			"membershipType": 1,
+			"name": "honeyBadja"
 		},
 		{
-			"membershipId":"4611686018467293140",
-			"membershipType":3,
-			"name":"john shaffstall"
+			"membershipId": "4611686018467293140",
+			"membershipType": 3,
+			"name": "john shaffstall"
 		},
 		{
-			"membershipId":"4611686018452348384",
-			"membershipType":2,
-			"name":"Patrick Castillo"
+			"membershipId": "4611686018452348384",
+			"membershipType": 2,
+			"name": "Patrick Castillo"
 		},
 		{
-			"membershipId":"4611686018432596465",
-			"membershipType":1,
-			"name":"Christopher Swiech"
+			"membershipId": "4611686018432596465",
+			"membershipType": 1,
+			"name": "Christopher Swiech"
 		},
 		{
-			"membershipId":"4611686018436494803",
-			"membershipType":1,
-			"name":"Dax Anderson (NATHotwire)"
+			"membershipId": "4611686018436494803",
+			"membershipType": 1,
+			"name": "Dax Anderson (NATHotwire)"
 		},
 		{
-			"membershipId":"4611686018430201445",
-			"membershipType":1,
-			"name":"Kevin O'Hern (ThreeGSDK9)"
+			"membershipId": "4611686018430201445",
+			"membershipType": 1,
+			"name": "Kevin O'Hern (ThreeGSDK9)"
 		},
 		{
-			"membershipId":"4611686018465074518",
-			"membershipType":2,
-			"name":"Austin Maez (EldFen)"
+			"membershipId": "4611686018465074518",
+			"membershipType": 2,
+			"name": "Austin Maez (EldFen)"
 		},
 		{
-			"membershipId":"4611686018434774427",
-			"membershipType":2,
-			"name":"Ben (Mr5litre304)"
+			"membershipId": "4611686018434774427",
+			"membershipType": 2,
+			"name": "Ben (Mr5litre304)"
 		}
 	]
 }
