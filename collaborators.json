@@ -56,7 +56,13 @@
 					"membershipId": "4611686018463551188",
 					"membershipType": 2,
 					"name": "fonian"
+				},
+				{
+					"membershipId": "4611686018482652651",
+					"membershipType": 3,
+					"name": "nWl"
 				}
+				
 			]
 		},
 		{
@@ -114,7 +120,13 @@
 					"membershipId": "4611686018468562417",
 					"membershipType": 3,
 					"name": "viridis draco"
+				},
+				{
+					"membershipId": "4611686018452009779",
+					"membershipType": 2,
+					"name": "Theovorn"
 				}
+
 			]
 		},
 		{
@@ -126,6 +138,11 @@
 					"membershipId": "4611686018467519241",
 					"membershipType": 3,
 					"name": "rice otaku"
+				},
+				{
+					"membershipId": "4611686018467423228",
+					"membershipType": 3,
+					"name": "R4NDO"
 				}
 			]
 		},
@@ -138,6 +155,11 @@
 					"membershipId": "4611686018488602145",
 					"membershipType": 3,
 					"name": "naru"
+				},
+				{
+					"membershipId": "4611686018440523891",
+					"membershipType": 1,
+					"name": "Faith"
 				}
 			]
 		},
@@ -179,6 +201,11 @@
 					"membershipId": "4611686018486012725",
 					"membershipType": 3,
 					"name": "antoniuss"
+				},
+				{
+					"membershipId": "4611686018493887406",
+					"membershipType": 3,
+					"name": "Chloe (solely)"
 				}
 			]
 		},
@@ -203,7 +230,13 @@
 					"membershipId": "4611686018484604303",
 					"membershipType": 3,
 					"name": "coralfox"
+				},
+				{
+					"membershipId": "4611686018440523891",
+					"membershipType": 1,
+					"name": "Faith"
 				}
+
 			]
 		}
 	],
