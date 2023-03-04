@@ -1,4 +1,5 @@
 {
+  "relevantCurrencies":[3159615086, 1022552290, 2817410917],
   "ranks":{
     "infamy":3008065600,
     "valor":2083746873,
@@ -44,9 +45,9 @@
     1396056784,
     564676571
   ],
-  "softCap":1270,
-  "powerfulCap":1320,
-  "pinnacleCap":1330,
+  "softCap":1750,
+  "powerfulCap":1800,
+  "pinnacleCap":1810,
   "seasonalModSlots":[
     3625698764,
     720857,
