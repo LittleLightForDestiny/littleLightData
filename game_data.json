@@ -1,11 +1,28 @@
 {
-  "relevantCurrencies":[3159615086, 1022552290, 2817410917],
-  "ranks":{
-    "infamy":3008065600,
-    "valor":2083746873,
-    "glory":1647151960
+  "relevantCurrencies": [
+    3159615086,
+    1022552290,
+    2817410917
+  ],
+  "ranks": {
+    "infamy": 3008065600,
+    "valor": 2083746873,
+    "glory": 1647151960
   },
-  "tabbedPresentationNodes":[
+  "raidPhases": {
+    "### Last Wish Phases ###":"",
+    "1126840038": "Kalli",
+    "1040714588": "Shuro Chi",
+    "4249034918": "Morgeth",
+    "436847112": "Vault Room",
+    "2392610624": "Riven",
+    "### Garden of Salvation Phases ###":"",
+    "2158557525": "Evasion",
+    "3736477924": "Summon",
+    "1024471091": "Consecrated Mind",
+    "523815399": "Sanctified Mind"
+  },
+  "tabbedPresentationNodes": [
     2214408526,
     1789205056,
     1528930164,
@@ -45,10 +62,10 @@
     1396056784,
     564676571
   ],
-  "softCap":1750,
-  "powerfulCap":1800,
-  "pinnacleCap":1810,
-  "seasonalModSlots":[
+  "softCap": 1750,
+  "powerfulCap": 1800,
+  "pinnacleCap": 1810,
+  "seasonalModSlots": [
     3625698764,
     720857,
     4106547009,
