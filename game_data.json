@@ -10,13 +10,13 @@
     "glory": 1647151960
   },
   "raidPhases": {
-    "### Last Wish Phases ###":"",
+    "### Last Wish Phases ###": "",
     "1126840038": "Kalli",
     "1040714588": "Shuro Chi",
     "4249034918": "Morgeth",
     "436847112": "Vault Room",
     "2392610624": "Riven",
-    "### Garden of Salvation Phases ###":"",
+    "### Garden of Salvation Phases ###": "",
     "2158557525": "Evasion",
     "3736477924": "Summon",
     "1024471091": "Consecrated Mind",
@@ -74,5 +74,18 @@
     2655746324,
     4153634494,
     4055462131
+  ],
+  "vendorsHomeHiddenCategories": [
+    "category_class_misc",
+    "category_preview",
+    "multipurchase",
+    "categories.featured.car",
+    "categories.campaigns",
+    "categories.seasonal",
+    "categories.archive",
+    "categories.events",
+    "category.ba_materials",
+    "synth_recycle",
+    "category_pursuits"
   ]
 }
