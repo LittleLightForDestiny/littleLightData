@@ -87,5 +87,10 @@
     "category.ba_materials",
     "synth_recycle",
     "category_pursuits"
+  ],
+  "cosmeticSocketCategories": [
+    1926152773,
+    2048875504,
+    2549160099
   ]
 }
