@@ -94,9 +94,9 @@
     2549160099
   ],
   "craftingSocketCategories":[
-    "crafting.plugs.frame_identifiers",
+    "crafting.plugs.frame_identifiers"
   ],
   "deepsightSocketCategories":[
-    "crafting.plugs.weapons.mods.memories",
+    "crafting.plugs.weapons.mods.memories"
   ]
 }
