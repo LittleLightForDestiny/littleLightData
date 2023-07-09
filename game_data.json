@@ -92,5 +92,11 @@
     1926152773,
     2048875504,
     2549160099
-  ]
+  ],
+  "craftingSocketCategories":[
+    "crafting.plugs.frame_identifiers",
+  ],
+  "deepsightSocketCategories":[
+    "crafting.plugs.weapons.mods.memories",
+  ],
 }
