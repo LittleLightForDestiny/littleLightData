@@ -1,7 +1,7 @@
 {
   "relevantCurrencies": [
     3159615086,
-    1022552290,
+    2718300701,
     2817410917
   ],
   "ranks": {
@@ -62,9 +62,9 @@
     1396056784,
     564676571
   ],
-  "softCap": 1950,
-  "powerfulCap": 2000,
-  "pinnacleCap": 2010,
+  "softCap": 200,
+  "powerfulCap": 400,
+  "pinnacleCap": 450,
   "seasonalModSlots": [
     3625698764,
     720857,
